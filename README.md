@@ -1,6 +1,6 @@
 # OneDeck
 
-**Production-grade arcade console for Arduino Mega. 7 fully-featured games with physics, particles & animations. 60 FPS, dynamic difficulty, EEPROM persistence. 5,100+ lines of professional C++.**
+**Production-grade arcade console for Arduino Mega. 7 fully-featured games with physics, particles & animations. 60 FPS, dynamic difficulty, EEPROM persistence. 2000+ lines of professional C++.**
 
 ---
 
@@ -183,7 +183,7 @@ OneDeck/
 
 ## 📦 What's Included
 
-### Core Systems (1,800+ lines)
+### Core Systems (800+ lines)
 - Input handling with calibration
 - Graphics rendering engine
 - Animation & particle system
@@ -213,9 +213,9 @@ OneDeck/
 
 ## 📈 Code Statistics
 
-- **Total Lines:** 5,100+
+- **Total Lines:** 2000+
 - **Games:** 7 (fully implemented)
-- **Core Systems:** 1,800+ lines
+- **Core Systems:** 800+ lines
 - **Compilation Time:** ~15 seconds
 - **Target Board:** Arduino Mega 2560
 - **Memory:** Optimized for 256KB RAM
